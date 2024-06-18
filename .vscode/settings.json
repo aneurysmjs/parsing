@@ -1,0 +1,16 @@
+{
+  "[rust]": {
+    "editor.defaultFormatter": "jinxdash.prettier-rust",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.inlayHints.enabled": "off"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2
+  },
+  "conventionalCommits.scopes": [
+    "prettier"
+  ]
+}
